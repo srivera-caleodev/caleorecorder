@@ -1,0 +1,13 @@
+type CallsView {
+	CompleteName: String!
+	CallID: String!
+	LocalStartTime: String!
+	LocalStopTime: String!
+	Duration: String!
+	ChannelName: String!
+	ChannelNumber: String!
+	FileName: String!
+	AgentIdentificationID: String!
+	AgentIdentificationValue: String!
+	Extension: String!
+}

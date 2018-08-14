@@ -1,0 +1,5 @@
+type UserSkill {
+  UserSkillID: String!
+  UserID: String!
+  SkillID: String!
+}
